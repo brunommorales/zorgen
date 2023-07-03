@@ -1,0 +1,16 @@
+{
+    "pages": [
+        {
+            "id": "1",
+            "title": "Plataforma de orçamentos da HCC",
+            "cover": "https://s3.amz.com/linkdaimagem.png",
+            "content": "<!-- Capa --><div class=\"cover\"></div><!-- Título e subtitulo --><h1>Minha Página</h1><h2>Uma página simples em HTML</h2><!-- Texto corrido --><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sodales sit amet eros auctor vehicula. Sed id ante elit. Aliquam et nibh euismod, sagittis sapien in, aliquam ipsum. Suspendisse potenti. Ut luctus semper tellus. Sed efficitur convallis enim, in euismod quam accumsan ut. Aliquam erat volutpat. Sed bibendum vel sem a viverra. Praesent pellentesque velit justo, in rhoncus nulla ultrices ut.</p><!-- Imagens --><img src=\"https://example.com/imagem1.jpg\" alt=\"Imagem 1\"><img src=\"https://example.com/imagem2.jpg\" alt=\"Imagem 2\">"
+        },
+        {
+            "id": "2",
+            "title": "Plataforma de processos da HCC",
+            "cover": "https://s3.amz.com/linkdaimagem.png",
+            "content": "<!-- Capa --><div class=\"cover\"></div><!-- Título e subtitulo --><h1>Minha Página</h1><h2>Uma página simples em HTML</h2><!-- Texto corrido --><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sodales sit amet eros auctor vehicula. Sed id ante elit. Aliquam et nibh euismod, sagittis sapien in, aliquam ipsum. Suspendisse potenti. Ut luctus semper tellus. Sed efficitur convallis enim, in euismod quam accumsan ut. Aliquam erat volutpat. Sed bibendum vel sem a viverra. Praesent pellentesque velit justo, in rhoncus nulla ultrices ut.</p><!-- Imagens --><img src=\"https://example.com/imagem1.jpg\" alt=\"Imagem 1\"><img src=\"https://example.com/imagem2.jpg\" alt=\"Imagem 2\">"
+        }
+    ]
+}
